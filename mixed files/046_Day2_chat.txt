@@ -1,0 +1,135 @@
+00:13:12	ıtır ergün:	günaydın
+00:13:20	Ufuk E.:	günaydın
+00:13:38	Faruk AZAKLI:	Günaydın
+00:39:23	ıtır ergün:	kamera kayıtlarıyla kayıt altında:)
+00:56:41	ıtır ergün:	hallettim hocam teşekkürler
+01:20:52	Ufuk Erkan:	for döngüsü
+01:21:48	Ufuk Erkan:	oluyormuş :)
+01:39:01	Idris Özçelik:	hocam ben ikinci bilgisayar a geçtim
+01:39:11	Idris Özçelik:	geride kaldım
+01:55:49	Ufuk Erkan:	bu sonuçta bir gariplik yok değil mi?
+02:10:41	Faruk AZAKLI:	Reacted to "{9852358A-88F0-4255-A84B-2B11DA0A9CE9}.png" with 👍
+02:11:01	Faruk AZAKLI:	Replying to "{9852358A-88F0-4255-A84B-2B11DA0A9CE9}.png"
+
+sorun yok devam
+02:12:30	Ufuk Erkan:	Reacted to "{9852358A-88F0-4255-A84B-2B11DA0A9CE9}.png" with 👍
+02:12:46	Ufuk Erkan:	Reacted to "sorun yok devam" with 👍
+02:15:41	Zafer Acar:	df['position']=df['position'].replace(['RB','QB'],['Running Back', 'Quarter Back'])
+02:18:08	Mücahit Yavuz:	Asistan arakadaşlar müsait mi acaba
+02:41:37	Zafer Acar:	import numpy as npimport matplotlib.pyplot as pltimport pandas as pdimport seaborn as sns
+02:42:08	Özkan Günalp:	Reacted to "Asistan arakadaşlar ..." with 👍
+02:55:46	Zafer Acar:	x=np.arange(20) # 1 den 20 ye kadar arsidik rakamlar urety=np.random.normal(10,1,20) # Ortalama 10 standart sapma 1 ratgele 20 rakam uretz=np.random.normal(10,2,20) # Ortalama 10 standart sapma 2 ratgele 20 rakam uret
+02:56:09	Mehmet Ali Erkul:	tek satır
+02:56:17	Mehmet Ali Erkul:	siz söylediniz :)
+03:14:27	Zafer Acar:	plt.plot(x,y, label='Y')plt.plot(x,z, label='Z')plt.xlabel('X degerleri')plt.ylabel('y degerleri')plt.legend();
+03:16:04	Zafer Acar:	plt.plot(x,y, label='Y')plt.plot(x,z, label='Z')plt.xlabel('X degerleri')plt.ylabel('y degerleri')plt.title('Xin Y ve Zye gore degisimi')plt.legend();
+03:17:42	Hande Çarkcı:	Türkçe kaynak olarak dahttps://www.m5bilisim.com/tr/on-parmak/hiz-testi/
+03:22:31	Ufuk Erkan:	anacondanın kendi asistanı da hata düzeltiminde yardımcı oluyor :
+03:28:56	Zafer Acar:	fig=plt.figure(figsize=(10,6))ax=fig.add_subplot(131)ax.plot(x,y,c='r',marker='d')bx=fig.add_subplot(132)bx.scatter(x,z,c='g',marker='*')cx=fig.add_subplot(133)cx.hist(y);
+03:34:56	Devrim:	vcount.com
+03:35:58	Devrim:	Doğru İnsan Sayaçları, Trafik Sayacı, Ziyaretçi Sayaçları
+03:53:40	Zafer Acar:	df['Date']=pd.to_datetime(df['Date'])
+03:57:25	Zafer Acar:	df['day']=(df['Date']).dt.daydf['month']=(df['Date']).dt.monthdf['year']=(df['Date']).dt.year
+04:04:06	Özkan Günalp:	df.shape - özellikdf.head() - metodlen() - fonksiyon
+04:07:11	Zafer Acar:	sns.countplot(x=df['month_name'],hue=df['month_name']);
+04:10:37	Beyza Topbas:	hata veriyor birseyleri mi kacirdim?
+04:11:12	Zafer Acar:	df['month_name']=df['Date'].dt.month_name()df['weekday']=df['Date'].dt.day_name()
+04:11:30	Beyza Topbas:	oldu tessekkurler
+04:16:03	Zafer Acar:	sns.countplot(x=df['weekday'],hue=df['weekday'])plt.xticks(rotation=90);
+04:16:21	Özkan Günalp:	Arkadaşlar, hatalarınızı bize de sorabilirsiniz:)
+04:17:09	Zafer Acar:	df['month_name']=df['Date'].dt.month_name()df['weekday']=df['Date'].dt.day_name()
+04:18:44	Zafer Acar:	sns.countplot(x=df['weekday'],hue=df['weekday'])plt.xticks(rotation=90);
+04:39:28	Zafer Acar:	df['Product line'].value_counts().plot.pie(autopct='%1.1f%%',explode=[0.1,0,0,0,0,0])
+04:41:05	Özkan Günalp:	1.0
+04:42:49	Zafer Acar:	plt.figure(figsize=(10,8))sns.countplot(x=df['Branch'],hue=df['Product line'])
+04:44:37	Özkan Günalp:	plt.legend(loc=4);
+04:47:08	Zafer Acar:	plt.figure(figsize=(10,8))sns.countplot(x=df['Branch'],hue=df['Product line'])plt.legend(loc=10)
+04:50:45	Hüseyin Açıkgöz:	Malcom Galdwell olması lazım outliers yazarı
+04:50:53	Abdulkadir Kiliç:	Malcolm Gladwell
+04:54:06	Devrim:	Outliers (Çizginin Dışındakiler) - Bazı İnsanlar Neden Daha Başarılı Olur? (Malcolm Gladwell) Fiyatı, Yorumları, Satın Al - Kitapyurdu.com
+05:03:25	Zafer Acar:	df=yf.download(['TSLA','AAPL','MSFT','NVDA'],start='2023-1-1',end='2025-10-3')
+05:09:10	Zafer Acar:	df['Close'].plot()
+06:00:21	Zafer Acar:	df=yf.download(['QNBTR.IS','ASELS.IS','GARAN.IS','KCHOL.IS'],start='2023-1-1',end='2025-10-3')
+06:13:22	Zafer Acar:	keywords=['İmamoğlu','Kurum']pt.build_payload(keywords,timeframe='today 5-y')
+06:14:04	Zafer Acar:	df=pt.interest_over_time()del df['isPartial']
+06:17:48	Özkan Günalp:	Arkadaşlar hata aldığınz anda bize yazınız lütfen
+06:21:37	Zafer Acar:	theta=np.linspace(0,2*np.pi, 100)x= 16 * (np.sin(theta)**3)y = 13 * np.cos(theta) - 5* np.cos(2*theta) - 2 * np.cos(3*theta) - np.cos(4*theta)plt.plot(x, y, c='r');
+06:22:42	Beyza Topbas:	theta=np.linspace(0,2*np.pi, 100)x= 16 * (np.sin(theta)**3)y = 13 * np.cos(theta) - 5* np.cos(2*theta) - 2 * np.cos(3*theta) - np.cos(4*theta)plt.plot(x, y, c='r');bu kod hata verdi bende
+06:23:15	Zafer Acar:	import numpy as np
+06:23:44	Beyza Topbas:	duzelmedi
+06:25:23	Beyza Topbas:	oldu simdi sagolun
+06:30:02	Zafer Acar:	year=[1950,1960,1970,1980,1990,2000,2010,2020]population={    'africa':[228,284,365,477,631,814,1044,1275],    'americas':[340,425,519,619,727,840,943,1006],    'asia': [1394, 1686, 2120, 2625, 3202, 3714, 4169, 4560],    'europe': [220, 253, 276, 295, 310, 303, 294, 293],    'oceania': [12, 15, 19, 22, 26, 31, 36, 39],}
+06:31:27	Beyza Topbas:	hata nerde?
+06:32:09	Beyza Topbas:	buldum, pardon
+06:37:33	Zafer Acar:	months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']temperature = [10, 12, 15, 18, 21, 24, 27, 26, 23, 19, 14, 11]# Convert data to a dataframedf = pd.DataFrame({'Temperature': temperature}, index=months)# Create the polar chart using the dataframefig, ax = plt.subplots(subplot_kw={'projection': 'polar'})ax.plot(np.radians(np.arange(0, 360, 30)), df['Temperature'])ax.fill(np.radians(np.arange(0, 360, 30)), df['Temperature'], alpha=0.5)ax.set_xticks(np.radians(np.arange(0, 360, 30)))ax.set_xticklabels(months);
+06:44:17	Zafer Acar:	px.sunburst(df,path=['day','time','sex'], values='total_bill')
+06:49:17	Doruk ( ͡ຈ ͜ʖ ͡ຈ) Acar:	Asistanlardan biri bakabilir mi
+06:51:06	Zafer Acar:	import plotly.express as pxdf = px.data.gapminder()fig = px.scatter(df.query("year==2007"), x="gdpPercap", y="lifeExp",	         size="pop", color="continent",                 hover_name="country", log_x=True, size_max=60)fig.show()
+06:51:23	ıtır ergün:	gelmedi
+06:51:34	Zafer Acar:	import matplotlib.pyplot as pltsizes = [15, 30, 45, 10]labels = ['A', 'B', 'C', 'D']plt.pie(sizes, labels=labels, autopct='%1.1f%%')circle = plt.Circle((0, 0), 0.8, color='white')plt.gca().add_artist(circle)plt.title('Donut Chart')plt.show()
+06:52:43	Tuba:	Replying to "Ekran Resmi 2025-10-05 13.37.02.png"
+
+Grafik oluşurken biraz sürebilir. Düzeldi mi?
+06:53:16	Doruk ( ͡ຈ ͜ʖ ͡ຈ) Acar:	Replying to "Ekran Resmi 2025-10-05 13.37.02.png"
+
+Hayır son attıgı da bi sonuc vermedi hata da vermiyor
+06:53:17	Zafer Acar:	import plotly.graph_objects as golabels = ["Source A", "Source B", "Source C", "Target X", "Target Y", "Target Z"]source = [0, 1, 0, 2, 3, 3, 4]target = [3, 3, 4, 4, 5, 5]values = [8, 4, 2, 8, 4, 2, 3]fig = go.Figure(data=[go.Sankey(    node=dict(        pad=15,        thickness=20,        line=dict(color="black", width=0.5),        label=labels    ),    link=dict(        source=source,        target=target,        value=values    ))])fig.update_layout(title_text="Basic Sankey Diagram", font_size=10)fig.show()
+06:53:31	Berat Deniz:	Replying to "Ekran Resmi 2025-10-05 13.37.02.png"
+
+sayfayı yenilemeyi dener misin kaydedip
+06:53:59	Doruk ( ͡ຈ ͜ʖ ͡ຈ) Acar:	Replying to "Ekran Resmi 2025-10-05 13.37.02.png"
+
+degismedi
+06:54:34	Tuba:	Replying to "Ekran Resmi 2025-10-05 13.37.02.png"
+
+Hepsi bittikten sonra yardımcı olacağım. Şimdi kaçırmayın.
+06:54:51	Zafer Acar:	import seaborn as snsimport numpy as npdata = [np.random.normal(0, std, 100) for std in range(1, 4)]sns.violinplot(data=data)plt.title('Violin Plot')plt.xlabel('Category')plt.ylabel('Values')plt.show()
+06:54:53	Tuba:	Replying to "Ekran Resmi 2025-10-05 13.37.02.png"
+
+Sonraki kodları yazmaya devam edin
+06:56:11	Zafer Acar:	import seaborn as snsimport matplotlib.pyplot as pltimport pandas as pdtips = sns.load_dataset("tips")
+06:56:19	Zafer Acar:	sns.boxplot(x="day", y="total_bill", data=tips, hue='day') sns.swarmplot(x="day", y="total_bill", data=tips, color=".25")
+06:56:53	Zafer Acar:	sns.pairplot(tips, hue="sex", palette="husl", markers=["o", "s"])
+06:57:15	Zafer Acar:	from mpl_toolkits.mplot3d import Axes3Dfig = plt.figure(); ax = fig.add_subplot(111, projection='3d') ax.scatter(tips['total_bill'], tips['tip'], tips['size'], c=tips['size'], cmap='viridis')
+06:57:49	Zafer Acar:	import numpy as npimport matplotlib.pyplot as pltfrom mpl_toolkits.mplot3d import Axes3D# Sample dataX = np.linspace(-5, 5, 100)Y = np.linspace(-5, 5, 100)X, Y = np.meshgrid(X, Y)Z = np.sin(np.sqrt(X**2 + Y**2))# Create a 3D surface plotfig = plt.figure()ax = fig.add_subplot(111, projection='3d')ax.plot_surface(X, Y, Z, cmap='viridis')plt.title('3D Surface Plot')plt.show()
+07:15:18	Zafer Acar:	import networkx as nximport matplotlib.pyplot as pltG = nx.random_geometric_graph(20, 0.4)pos = nx.spring_layout(G)plt.figure(figsize=(8,8))nx.draw_networkx_nodes(G, pos, node_size=300, node_color="skyblue")nx.draw_networkx_edges(G, pos, alpha=0.4)nx.draw_networkx_labels(G, pos, font_size=10)plt.axis("off")plt.show()
+07:17:38	Zafer Acar:	https://colab.research.google.com/
+07:21:28	Hande Çarkcı:	çalışma zamanı - çalışma zamanı türünü değiştir
+07:21:37	Tuba:	Yapamayan var mı?
+07:21:52	mücahit yavuz:	Yardım alabilirm
+07:22:36	Devrim:	Tuba Hanım yardımcı olur musunuz
+07:22:47	Tuba:	Replying to "Yardım alabilirm"
+
+İsteği kabul etmelisiniz
+07:22:48	Devrim:	dosya yüklemnemedi
+07:23:11	Zafer Acar:	https://colab.research.google.com/
+07:23:58	Tuba:	Reacted to "Tuba Hanım yardımcı ..." with 👍🏻
+07:24:23	Tuba:	Replying to "Tuba Hanım yardımcı ..."
+
+İsteği kabul etmelisiniz
+07:24:49	Mücahit Yavuz:	Tekrar oda isteği açarsanız
+07:25:17	Tuba:	Replying to "Tekrar oda isteği aç..."
+
+Açtım
+07:25:53	Devrim Balaban:	iyi olur
+07:34:48	Faruk AZAKLI:	bcr.bar_chart_race(df=total,filename='corona.mp4',figsize=(10,8),title='Faruk')
+07:35:21	Doruk ( ͡ຈ ͜ʖ ͡ຈ) Acar:	Bende oluşmadı sizinki gibi
+07:36:36	Zafer Acar:	import bar_chart_race as bcr
+07:42:23	Hande Çarkcı:	Atıyorum
+07:44:32	Tuba:	Başka hata alan varsa istek atabilirim
+07:45:51	Zafer Acar:	df2.set_index('date',inplace=True)
+07:45:56	Zafer Acar:	total=df2.cumsum(axis=0)
+07:46:02	Zafer Acar:	bcr.bar_chart_race(df=total,filename='corona.mp4', figsize=(10,8), title='Devrim')
+07:46:28	Doruk ( ͡ຈ ͜ʖ ͡ຈ) Acar:	Replying to "Ekran Resmi 2025-10-05 13.37.02.png"
+
+Tuba hanim bakalım mi simdi
+07:47:24	Tuba:	Reacted to "Tuba hanim bakalım m..." with 👍🏻
+07:51:11	Zafer Acar:	df2=df[['date','China','Italy','Turkey','Spain','US','United Kingdom']]
+07:51:31	Zafer Acar:	df2.set_index('date',inplace=True)
+07:51:39	Zafer Acar:	total=df2.cumsum(axis=0)
+07:51:55	Zafer Acar:	bcr.bar_chart_race(df=total,filename='corona.mp4', figsize=(10,8), title='Itir')
+07:52:24	Zafer Acar:	import bar_chart_race as bcr
+07:56:18	Beyza Topbas:	calisti sagolun
+07:58:23	Osman Özcanlı:	hocam
+07:58:32	Osman Özcanlı:	ben kacirdim da racingbars nasil kaydedecektik
+07:58:43	Osman Özcanlı:	dosya olarak kendi laptopumuza
