@@ -1,0 +1,131 @@
+22:17:12	 From Muhlise OKYAY  to  Zafer Acar(direct message) : siz quantum bilgisayar kullanıyor musunuz
+22:17:40	 From Muhlise OKYAY  to  Zafer Acar(direct message) : Ve siz bu işle birlikte zengin misiniz
+22:24:55	 From Muhlise OKYAY : Gerçekten en iyisi daha iyisi görmedim 🌺
+22:36:15	 From ali galip  to  Zafer Acar(direct message) : Şeytani bir teknoloji diyen devlet büyüğümüz vardı :)
+22:37:39	 From Muhlise OKYAY  to  Zafer Acar(direct message) : Hocam Fortran hakkında simülasyonlar için ne düşünüyorsunuz
+22:42:54	 From Yunus Kose : cok garip neden ele geçirdikleri bölgelerden geri donmemısler
+22:50:25	 From ıtır ergün : ama veri için de insana ihtiyacı var hocam :)
+22:54:47	 From Muhlise OKYAY  to  Zafer Acar(direct message) : Nokta türev i tekrar söyler misiniz uzaklık toplam sıfır
+23:10:00	 From Mustafa Hilmi Asik : hocam bir sey sormak istiyorum , bir ornek verecek olursak bir kisinin 500 contact i olsa ve 10 tanesinin sosyal media hesabi olsa yine o kisi hakkinda bilgi tahmin etmek mumkun mu ?
+23:10:57	 From Mustafa Hilmi Asik : bu kisinin sosyal media baglantisi olmadigi durumda sormak istiyorum
+23:11:37	 From Mustafa Hilmi Asik : tamam, tesekkurler
+23:34:19	 From ıtır ergün : çok güldüm kesin ağlayacağım gibi
+23:35:07	 From Yusuf Bodur : Hocam işi gücü bıraktıracaksınız :-)
+23:38:21	 From Mustafa Hilmi Asik : dozen ve disiplin sart
+23:38:26	 From Mustafa Hilmi Asik : duzen
+23:38:35	 From Muhlise OKYAY  to  Zafer Acar(direct message) : Entrika seviyoruz
+23:39:00	 From ıtır ergün : hocam, 4 yaşında kızım yukarıda uyuyor şu an. önce kendim için sonra da onun için elimden gelenin en iyisi için buradayım:)
+23:39:42	 From Idris Özçelik : atomik alışkanlıklar kitabını disiplin için okuyabilirsınız
+23:40:15	 From Özkan Günalp : Reacted to "atomik alışkanlıklar..." with 👏
+23:45:45	 From Devrim : "hocam, 4 yaşında..." adlı kişiye 👍 ile tepki verdi
+23:46:02	 From Devrim : "atomik alışkanl..." adlı kişiye 👍 ile tepki verdi
+00:24:54	 From Hüseyin Açıkgöz : Dersler O Yüzden mi Uzaktan Hocam?
+00:25:31	 From Yunus Kose : Reacted to "Dersler O Yüzden mi ..." with 😁
+00:28:36	 From Berat Deniz : merhaba, küçük bir sorum olacaktı. python için hangi ideyi kurulumunu gerçekleştirelim? anaconda mı yoksa kendi tercihimiz olabilir mi?
+00:28:40	 From Osman Özcanlı : hocam bizim hikayeler sizinkiler gibi komik olmayabilir :)
+00:34:01	 From Özkan Günalp : Jupyter Notebook Anaconda ile hazır gelir. Kütüphane ve paket yönetimiyle (örneğin pip install komutları, uyumluluk sorunları) çok uğraşmak istemiyorsanız. Anaconda, birbiriyle uyumlu çalışan bir çok kütüphaneyi tek seferde kurar. Anaconda tavsiye ederim
+00:34:23	 From Berat Deniz : tamamdır sağolun
+00:34:29	 From Özkan Günalp : Reacted to "tamamdır sağolun" with 👍
+00:59:07	 From Yunus Kose : yüzde olarak düşünürsek yüzde 60
+00:59:21	 From Muhlise OKYAY : power analiz mi yazıcaz
+01:15:38	 From Özkan Günalp : IQR (Interquartile Range)
+01:20:28	 From Muhlise OKYAY : Amerika’da sağlıyor hocam beyaz siyah
+01:23:02	 From Devrim : kıa bir süre mobil olmam gerekecek , cep telefundan dinlemeye devam edeceğim kısa bir süre
+01:26:06	 From ıtır ergün : neden sonuç ilişkisi
+01:27:30	 From ıtır ergün : var
+01:27:34	 From Mustafa Hilmi Asik : burada iki olay arasinda mi baglanti kurabiliyoruz? yoksa 2 yada daha cok baglanti kurulabilirmi?
+01:46:08	 From Mustafa Hilmi Asik : 2x +2+c
+01:53:55	 From Idris Özçelik : evet çok güzel
+01:55:33	 From Nisa : bina yaşı
+01:57:33	 From YIH1IB : binanın m2'si
+01:57:47	 From YIH1IB : oda sayısı
+02:18:35	 From Muhlise OKYAY : Ama ilki erkek olmuş bir tarafa eğilim var gibi
+02:21:00	 From Faruk AZAKLI : ders almamış chat gpt derki: Kısa cevap: %50 (yaklaşık gerçek hayatta %51 civarı).
+Neden?
+Naive Bayes (ve aslında standart olasılık varsayımı) çocukların cinsiyetlerinin bağımsız olduğunu kabul eder. Yani ilk çocuğun erkek olması, ikinci çocuğun cinsiyet olasılığını değiştirmez:
+P
+(
+2. erkek
+∣
+1. erkek
+)
+=
+P
+(
+2. erkek
+)
+≈
+0.5
+P(2. erkek∣1. erkek)=P(2. erkek)≈0.5
+(Not: Gerçek verilerde erkek doğum oranı ~0.51–0.512 civarındadır; bağımsızlık varsayımı altında koşullu olasılık yine aynı değerdir.)
+02:21:28	 From Muhlise OKYAY : Bana gelmedi tekrar atar mısınız
+02:30:38	 From Muhlise OKYAY : Transfer l de naive b mi kullanıyor
+02:31:05	 From Muhlise OKYAY : Transfer learning de naive bayes
+02:31:08	 From Muhlise OKYAY : Mi kullanıyor
+02:31:10	 From Muhlise OKYAY : Evet
+02:43:13	 From Muhlise OKYAY : 🤣
+02:46:54	 From Muhlise OKYAY : Sizce bizde mi öyle yapmalıyız?
+03:02:58	 From ıtır ergün : hocam elektirk gitti ve bağlantım kötü
+03:03:20	 From ıtır ergün : son anlattıklarını duyamadım.
+03:03:27	 From ıtır ergün : anlattıklarınızı
+03:48:30	 From Yunus Kose : öncesinde gönderilen videoda vardı zaten hocam yaptım ben
+03:51:59	 From Berat Deniz : kaynak dosyalarını bulamayanlar için
+03:52:00	 From Berat Deniz : https://drive.google.com/file/d/1xFAQj4mRTMu1KHEMQOzFtCLOv-04Sm-8/view
+03:53:04	 From Hande Çarkcı : başka yapamayan  varmı
+03:56:44	 From Mustafa Hilmi Asik : ben yapamadim
+03:57:44	 From Zafer Acar  to  Zafer Acar(direct message) : co hostluk verebilir misin
+03:57:53	 From Zafer Acar  to  Zafer Acar(direct message) : llm dersı yenı bıttı
+03:59:44	 From Zafer Acar : hatası olanlar yazabilir
+04:00:23	 From Özkan Günalp : bir yanlışlık oldu şu an herkes burada
+04:01:22	 From Yunus Emre Arık : Hoca sizi duymuyor büyük ihtimalle
+04:01:34	 From Erhan Mülayim : hocam sesimiz geliyor mu
+04:01:38	 From Doruk ( ͡ຈ ͜ʖ ͡ຈ) Acar : Chate yazin arkadaslar
+04:01:44	 From Devrim : Hocam sanırım day 1 klasörüdnden sonra kaldık
+04:01:46	 From Osman Özcanlı : hocam
+04:01:48	 From Özkan Günalp : duyuyoruz
+04:01:53	 From Osman Özcanlı : bizi duymuyorsunuz galiba
+04:01:56	 From Erhan Mülayim : geliyor
+04:01:58	 From Mert Ali : hocam sesimiz gelmiyor sanırım size
+04:02:00	 From Nisa : ben çok geride kaldım
+04:02:13	 From Özkan Günalp  to  Zafer Acar(direct message) : hocm sesiniz duyulnuyor
+04:02:47	 From Berat Deniz : Tuğba hanım bende sorun yok teşekkür ederim
+04:05:50	 From Hande Çarkcı : Hatası olan arkadaşlar,room2 odasına gidebilir
+04:06:46	 From Osman Özcanlı : hande hanim nasil room2 ye girebilirim
+04:07:25	 From Hande Çarkcı : aşşağıda seçeneklerde ara odalar yazıyor orayı gördünüz mü ordaya tıklayon
+04:10:00	 From Tuba : Başka hatası devam eden var mı?
+04:17:16	 From Zafer Acar : <img width=200 src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png>
+04:19:04	 From Nisa : evet yapabildim teşekkürler
+04:20:36	 From Zafer Acar : $ \int_a^b \frac{dx}{sin(x)} \alpha \beta \Delta $
+04:23:09	 From Zafer Acar : <font size=3 color=red>Python Öğreniyorum </font>
+04:25:42	 From Zafer Acar : print('Merhaba Dünya')
+04:46:27	 From Idris Özçelik : üç tırnak nasıl yazılıyor
+04:47:08	 From Mert Ali : Replying to "üç tırnak nasıl yazı..."
+
+esc altındaki tuşa üç kez basın
+04:47:17	 From Hande Çarkcı : tab tuşunun üstünde  " bu işaret var
+04:47:32	 From Hande Çarkcı : Reacted to "esc altındaki tuşa ü..." with 👍
+04:52:41	 From Hande Çarkcı : Markdown ve raw seçenekleri  başlık text yazı yorum yazmak istediğimizde  kullanılır. kodlarımızı code seçeneğiyle çalıştırırız.
+04:53:08	 From Hande Çarkcı : satırları atlamadan shift enter bastığımızdan emin olalım.
+04:56:21	 From Tuba : Hatalarda buradan yazarsanız biz yardımcı olalım. Dersin akışı bozulmadan devam edebilmek için.
+04:57:42	 From Hande Çarkcı : { } [ ] zaman kaybetmemek için buradan kopyalabilirsiniz.
+05:04:05	 From Tevfik Akkoyun : Replying to "Hatalarda buradan ya..."
+
+Sozluk kısmında hayta alıyorum yardımcı olabilir misin?
+05:06:48	 From Özkan Günalp : Reacted to "Sozluk kısmında hayt..." with 👍
+05:10:45	 From Özkan Günalp : = (Tek Eşittir): Atama Operatörü== (Çift Eşittir): Eşitlik Karşılaştırma Operatörü
+05:17:26	 From Yunus Kose : list comprehension ile hesaplanan degerleri yeni listeye nasil atiyoruz hocam
+05:29:52	 From Zafer Acar : df.corr(numeric_only=True)
+05:35:22	 From Zafer Acar : sns.pairplot(df,hue='Survived')
+05:43:58	 From Zafer Acar : https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)
+05:45:12	 From Özkan Günalp  to  Zafer Acar(direct message) : url = 'https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)'headers = {"User-Agent": "Mozilla/5.0"}html = requests.get(url, headers=headers).textdf= pd.read_html(html)[2]
+05:45:19	 From Özkan Günalp  to  Zafer Acar(direct message) : bu olabilir mi ?
+05:46:09	 From Zafer Acar : import requestsurl = 'https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)'headers = {"User-Agent": "Mozilla/5.0"}html = requests.get(url, headers=headers).textdf= pd.read_html(html)[2]
+05:46:47	 From Devrim : C:\Users\LENOVO\AppData\Local\Temp\ipykernel_15672\1149098294.py:6: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.  df= pd.read_html(html)[2]
+05:51:59	 From Ufuk E. : ModuleNotFoundError                       Traceback (most recent call last)Cell In[94], line 2      1 cumle='Hello class. Welcome to out data science bootcamp!'----> 2 from gtts import gTTSModuleNotFoundError: No module named 'gtts'
+05:52:05	 From Ufuk E. : bu şekilde bir hata aldım
+05:52:26	 From Tuba : Replying to "bu şekilde bir hata ..."
+
+pip install gtts bunu çalıştırın
+05:53:12	 From Zafer Acar : pip install gtts
+06:00:04	 From Erhan Abay : kayit=gTTS(text=cumle2,lang='hi',slow=False)kayit.save('robot.mp3')
+06:09:04	 From ıtır ergün : hocam benim jupyterlab değişecek. kodları not olarak aldım. Ömer bey yardımcı olacağını tekrar yükleyeceğini belirtti. bir iki saate gönderebileceğim. yok saymayın lütfen.benim sayfam çok geride kaldı çünkü. yarın daha hızlı olacağım.
