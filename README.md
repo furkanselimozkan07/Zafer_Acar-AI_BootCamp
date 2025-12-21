@@ -30,11 +30,5 @@ Each folder corresponds to a specific chapter/week and includes relevant codes, 
 | **13** | 🤖 **LLM (Large Language Models)** | Large Language Models, RAG architectures, and Prompt Engineering. |
 | **14** | 📱 **Mobile App Development** | Integrating AI models into mobile applications. |
 
----
 
-## 🛠️ Installation & Usage
-To explore the notes or run the codes in this repository:
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Zafer_Acar-AI_BootCamp.git](https://github.com/YOUR_USERNAME/Zafer_Acar-AI_BootCamp.git)
